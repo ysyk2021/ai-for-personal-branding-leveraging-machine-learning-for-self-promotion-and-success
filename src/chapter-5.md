@@ -1,5 +1,3 @@
-Chapter 5: Improving Networking and Relationship Building with AI
-=================================================================
 
 Networking and relationship building are critical components of personal branding and career success. In this chapter, we explore how AI can improve networking and relationship building through AI-driven techniques.
 

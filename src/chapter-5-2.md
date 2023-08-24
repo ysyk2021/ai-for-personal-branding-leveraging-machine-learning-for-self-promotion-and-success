@@ -1,5 +1,3 @@
-Personalized Connection Recommendations and Interventions using AI
-=====================================================================================================================================
 
 Networking and relationship building are crucial components of personal branding and career success. In this chapter, we explore how AI can improve networking and relationship building through personalized connection recommendations and interventions.
 
