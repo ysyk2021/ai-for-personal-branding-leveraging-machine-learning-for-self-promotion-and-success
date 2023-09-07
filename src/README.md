@@ -6,3 +6,7 @@ AI for Personal Branding: Leveraging Machine Learning for Self-Promotion and Suc
 Whether you're looking to build your personal brand from scratch or take your existing brand to the next level, AI for Personal Branding is a must-read for anyone looking to leverage machine learning for self-promotion and success. With practical tips, real-world examples, and expert insights, this book will help you unlock the full potential of AI for personal marketing and promotion.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
