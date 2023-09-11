@@ -1,5 +1,4 @@
-Chapter 3: Overview of Available Tools and Technologies
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an overview of the available tools and technologies that can be leveraged for personal branding using AI and machine learning. These tools and technologies play a crucial role in optimizing self-promotion strategies and achieving success in personal branding efforts. This chapter explores the various options and functionalities offered by these tools and technologies.
 

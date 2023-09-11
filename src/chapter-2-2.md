@@ -1,5 +1,4 @@
-Chapter 5: Selecting the Right Tools for Your Personal Branding Needs
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we discuss the process of selecting the right tools and technologies for your personal branding needs. With a plethora of options available, it is crucial to choose tools that align with your goals, preferences, and resources. This chapter provides a framework to help you make informed decisions and select the most suitable tools to optimize your self-promotion and achieve success in personal branding.
 

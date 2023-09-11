@@ -1,5 +1,4 @@
-Chapter 9: Automated Social Media Content Generation Using AI
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the powerful capabilities of automated social media content generation using artificial intelligence (AI) in personal branding. Machine learning algorithms and natural language processing techniques are revolutionizing the way individuals create and curate content for their social media platforms. This chapter delves into the various ways AI is transforming social media content generation and enhancing self-promotion strategies for success.
 
